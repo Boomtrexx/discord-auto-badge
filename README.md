@@ -20,16 +20,12 @@ Wenn du mit mir in Kontakt treten möchten:
 4. Gehe zum Bot-Bereich auf der linken Seite.
    ![](https://i.imgur.com/ywLRUTJ.png)
 
-6. Klicke auf „Bot hinzufügen“ und dann auf „Ja, mach es“.
-   ![](https://i.imgur.com/gvU5FE7.png)
-   ![](https://i.imgur.com/9YA9vDx.png)
-
-7. Setze nun deinen Bot-Token zurück und kopieren ihn.
+6. Setze nun deinen Bot-Token zurück und kopieren ihn.
    ![](https://i.imgur.com/Ra8Xfi2.png)
 
-8. Fügen deinen Token auf der [Website](https://activedev.boomtrex.io) ein und klicke auf „Senden“.
+7. Fügen deinen Token auf der [Website](https://activedev.boomtrex.io) ein und klicke auf „Senden“.
    ![](https://i.imgur.com/6HUkZvh.png)
 
-9. Sobald er angemeldet ist, laden deinen Bot über den bereitgestellten Link ein und führe den Slash-Befehl „/claim“ aus (die Registrierung des Befehls kann einige Minuten dauern, da er global registriert ist).
+8. Sobald er angemeldet ist, laden deinen Bot über den bereitgestellten Link ein und führe den Slash-Befehl „/claim“ aus (die Registrierung des Befehls kann einige Minuten dauern, da er global registriert ist).
     
 Vielen Dank, dass du dieses Tool verwenden ❤️
