@@ -1,35 +1,35 @@
 # Discord Auto Badge
 
-Get your Discord developer badge without any coding! This is an open-source tool that will allow you to automatically register slash commands and run it on your bot.
+Holen dir deinen Discord-Entwicklerabzeichen ohne jegliche Programmierung! Dabei handelt es sich um ein Open-Source-Tool, mit dem Sie Slash-Befehle automatisch registrieren und auf Ihrem Bot ausführen können.
 
-If you want to get in contact with me:
+Wenn du mit mir in Kontakt treten möchten:
 
-- Email: [avraj@underctrl.io](mailto:admin@underctrl.io)
-- Discord: Under Ctrl#0001 (preferred)
+- Email: [boomtrexx@gmail.com](mailto:boomtrexx@gmail.com)
+- Discord: Boomtrex
 
-[**A live demo of the tool can be found here**](https://activedev.underctrl.io/)
+[**Eine Live-Demo des Tools finden du hier**](https://activedev.boomtrexx.io/)
 
 ## Instructions
 
-1. Create an application in your [Discord Developer Portal](https://discord.com/developers/applications) by clicking on the "New Application" button on the top right.
+1. Erstelle dir eine Anwendung in deinem [Discord Developer Portal](https://discord.com/developers/applications), indem du oben rechts auf die Schaltfläche „Neue Anwendung“ klicken.
    ![](https://i.imgur.com/atm10Q8.png)
 
-2. Give your application a name, accept the TOS and create it.
+3. Gebe deiner Anwendung einen Namen, akzeptiere die AGB und erstelle dir die.
    ![](https://i.imgur.com/rHpFh24.png)
 
-3. Head over to the bot section on the left.
+4. Gehe zum Bot-Bereich auf der linken Seite.
    ![](https://i.imgur.com/sng9uY6.png)
 
-4. Click "Add Bot" and click "Yes do it".
+6. Klicke auf „Bot hinzufügen“ und dann auf „Ja, mach es“.
    ![](https://i.imgur.com/gvU5FE7.png)
    ![](https://i.imgur.com/9YA9vDx.png)
 
-5. Now reset your bot token and copy it.
+7. Setze nun deinen Bot-Token zurück und kopieren ihn.
    ![](https://i.imgur.com/Ra8Xfi2.png)
 
-6. Paste your token on the [website](https://activedev.underctrl.io) and click submit.
+8. Fügen deinen Token auf der [Website](https://activedev.boomtrex.io) ein und klicke auf „Senden“.
    ![](https://i.imgur.com/6HUkZvh.png)
 
-7. Once it's logged in, invite your bot using the provided link and run the `/claim` slash command (the command may take a few minutes to register as it's globally registered).
-
-Thank you for using this tool ❤️
+9. Sobald er angemeldet ist, laden deinen Bot über den bereitgestellten Link ein und führe den Slash-Befehl „/claim“ aus (die Registrierung des Befehls kann einige Minuten dauern, da er global registriert ist).
+    
+Vielen Dank, dass du dieses Tool verwenden ❤️
