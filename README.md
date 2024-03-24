@@ -18,7 +18,7 @@ Wenn du mit mir in Kontakt treten möchten:
    ![](https://i.imgur.com/ZRXg3If.png)
 
 4. Gehe zum Bot-Bereich auf der linken Seite.
-   ![](https://i.imgur.com/sng9uY6.png)
+   ![]([https://i.imgur.com/sng9uY6.png](https://i.imgur.com/ywLRUTJ.png))
 
 6. Klicke auf „Bot hinzufügen“ und dann auf „Ja, mach es“.
    ![](https://i.imgur.com/gvU5FE7.png)
