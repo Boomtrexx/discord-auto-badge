@@ -12,7 +12,7 @@ Wenn du mit mir in Kontakt treten möchten:
 ## Instructions
 
 1. Erstelle dir eine Anwendung in deinem [Discord Developer Portal](https://discord.com/developers/applications), indem du oben rechts auf die Schaltfläche „Neue Anwendung“ klicken.
-   ![](https://i.imgur.com/atm10Q8.png)
+   ![](https://i.imgur.com/rb0hk4G.png)
 
 3. Gebe deiner Anwendung einen Namen, akzeptiere die AGB und erstelle dir die.
    ![](https://i.imgur.com/rHpFh24.png)
