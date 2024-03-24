@@ -21,7 +21,7 @@ Wenn du mit mir in Kontakt treten möchten:
    ![](https://i.imgur.com/ywLRUTJ.png)
 
 6. Setze nun deinen Bot-Token zurück und kopieren ihn.
-   ![](https://i.imgur.com/Ra8Xfi2.png)
+   ![](https://i.imgur.com/HNHWlg2.png)
 
 7. Fügen deinen Token auf der [Website](https://activedev.boomtrex.io) ein und klicke auf „Senden“.
    ![](https://i.imgur.com/6HUkZvh.png)
