@@ -15,7 +15,7 @@ Wenn du mit mir in Kontakt treten möchten:
    ![](https://i.imgur.com/rb0hk4G.png)
 
 3. Gebe deiner Anwendung einen Namen, akzeptiere die AGB und erstelle dir die.
-   ![](https://i.imgur.com/rHpFh24.png)
+   ![]([https://i.imgur.com/ZRXg3If.png)
 
 4. Gehe zum Bot-Bereich auf der linken Seite.
    ![](https://i.imgur.com/sng9uY6.png)
